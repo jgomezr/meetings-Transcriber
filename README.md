@@ -187,5 +187,5 @@ To transcribe audio from Teams, Zoom, or other applications:
 
 ## License
 
-MIT License
+Mozilla Public License 2.0
 
